@@ -4,7 +4,7 @@ I am a software engineer with experience in developing fintech applications 🧰
 
 - 🤖 I write code for [10 years](https://www.linkedin.com/in/marashan/), most of the time on Kotlin and Python.
 - 🧰 Now I am a senior mobile developer at Yandex.
-- ✏️ I write articles on [Habr](https://habr.com/ru/users/mmarashan) (in Russian).
+- ✏️ I write articles on [Habr](https://habr.com/ru/users/mmarashan) (in Russian) and on [Medium](https://medium.com/@mmarashan) (in English).
 
 ## 🛠 My fancy badge area
 
